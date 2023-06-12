@@ -1,4 +1,5 @@
 # cs50-ps0
+WEEK 0
 
 Catching the ball!
 
